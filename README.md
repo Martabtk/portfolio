@@ -1,72 +1,16 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <title>Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-
-    h1 {
-      color: #333;
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-
-    h2 {
-      color: #555;
-      font-size: 20px;
-      margin-bottom: 10px;
-    }
-
-    h3 {
-      color: #777;
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-
-    p {
-      color: #777;
-      font-size: 16px;
-      line-height: 1.5;
-      margin-bottom: 15px;
-    }
-
-    ul {
-      color: #777;
-      font-size: 16px;
-      line-height: 1.5;
-      margin-bottom: 15px;
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-  </style>
 </head>
-
 <body>
   <h1>About Me</h1>
-  <p>My name is Marta Betka, and I hold a Master's degree in [field of study] from Wrocław University of Science and
-    Technology. With over 12 years of experience as a quality engineer in a global manufacturing brand, I have developed a
-    strong passion for testing and QA engineering. As a quality engineer, I was responsible for conducting tests
-    and ensuring the quality of consumer electronics. This experience sparked my interest in software testing for mobile
-    and server applications, and I am eager to apply my knowledge and skills to deliver reliable and high-performance
-    software solutions.</p>
+  <p>My name is Marta Betka. I hold a Master's degree in [field of study] from Wrocław University of Science and Technology. I have over 12 years of experience as a quality engineer in a global manufacturing brand, where I was responsible for conducting tests and ensuring the quality of consumer electronics. This experience sparked a strong interest in testing and QA engineering. As a quality engineer, my role involved designing and conducting tests, as well as reporting performance and reliability results for consumer electronics. This experience inspired me to transition into the field of software testing for mobile and server applications. I am excited about the opportunity to apply my knowledge of quality assurance and testing methodologies to deliver reliable and high-performance software solutions.</p>
 
-  <h2>Education</h2>
+  <h2>Tools</h2>
   <ul>
-    <li>Master's degree in [field of study], Wrocław University of Science and Technology</li>
-    <li>Postgraduate studies in "Software Testing for Mobile and Server Applications," WSB Merito University, Wrocław</li>
+    <li>JIRA: Project management and issue tracking tool</li>
+    <li>TestRail: Test process management and writing test plans</li>
+    <li>Github: Version control and collaboration platform</li>
   </ul>
 
-  <h2>Technical Skills</h2>
+  <h2>Tech Skills</h2>
   <ul>
     <li>SQL: Querying and manipulating data in databases</li>
     <li>SCRUM: Agile project management framework</li>
@@ -77,31 +21,21 @@
     <li>Reporting bugs: Identifying and documenting software defects</li>
   </ul>
 
-  <h2>Tools</h2>
-  <ul>
-    <li>JIRA: Project management and issue tracking tool</li>
-    <li>Trello: Project management and task tracking tool</li>
-    <li>TestRail: Test process management and writing test plans</li>
-    <li>Github: Version control and collaboration platform</li>
-  </ul>
-
   <h2>Projects</h2>
-  <h3>CurrencyExchangeRateApp</h3>
-  <p>Description: A currency exchange rate tracking and analysis application that utilizes data from the National Bank of
-    Poland (NBP). The app allows users to search for currencies, visualize exchange rate trends through charts, calculate
-    average rates, and identify maximum and minimum values.</p>
-  <p><a href="https://github.com/Martabtk/CurrencyExchangeRateApp.git">GitHub Repository</a></p>
+  <h3><a href="https://github.com/Martabtk/CurrencyExchangeRateApp.git">CurrencyExchangeRateApp</a></h3>
+  <p>Description: A currency exchange rate tracking and analysis application that utilizes data from the National Bank of Poland (NBP). The app allows users to search for currencies, visualize exchange rate trends through charts, calculate average rates, and identify maximum and minimum values.</p>
+  <p>I have successfully completed various projects as part of my postgraduate studies, including the development of the CurrencyExchangeRateApp. This application demonstrates my proficiency in utilizing Python, PySide6, Pandas, Matplotlib, and API integration to create a functional and user-friendly software solution. The project involved data retrieval from the NBP API, data analysis, chart visualization, and implementing various features to enhance the user experience.</p>
+  <p>Throughout the development process, I applied my knowledge of software testing techniques to ensure the application's quality and reliability. I designed and executed test cases, performed functional and UI testing, and reported and resolved any identified issues.</p>
 
-  <p>I have successfully completed various projects as part of my postgraduate studies, including the development of the
-    CurrencyExchangeRateApp. This application demonstrates my proficiency in utilizing Python, PySide6, Pandas,
-    Matplotlib, and API integration to create a functional and user-friendly software solution. The project involved data
-    retrieval from the NBP API, data analysis, chart visualization, and implementing various features to enhance the user
-    experience.</p>
+  <h2>Education</h2>
+  <ul>
+    <li>Master's degree in [field of study], Wrocław University of Science and Technology</li>
+    <li>Postgraduate studies in "Software Testing for Mobile and Server Applications," WSB Merito University, Wrocław</li>
+  </ul>
+  <p>My postgraduate studies provided a comprehensive curriculum covering a wide range of topics related to software testing. I gained knowledge and practical experience in areas such as test planning, test design techniques, test management tools (JIRA, TestRail. I also learned SQL for database testing, Agile methodologies (SCRUM), and the importance of DevTools in the testing process.</p>
 
-  <p>Throughout the development process, I applied my knowledge of software testing techniques to ensure the application's
-    quality and reliability. I designed and executed test cases, performed functional and UI testing, and reported and
-    resolved any identified issues.</p>
-
+  <p>By combining my educational background and professional experience, I am equipped with the necessary skills and expertise to excel in software testing and QA engineering roles.</p>
 </body>
-
 </html>
+
+
