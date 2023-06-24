@@ -24,12 +24,12 @@
   </ul>
 
   <h2>Projects</h2>
-  <h3><a href="https://github.com/Martabtk/CurrencyExchangeRateApp.git">CurrencyExchangeRateApp</a></h3>
+  <h3><a href="https://github.com/Martabtk/CurrencyExchangeRateApp.git">currency_exchange_rate_app</a></h3>
   <p>Description: A currency exchange rate tracking and analysis application that utilizes data from the National Bank of Poland (NBP). The app allows users to search for currencies, visualize exchange rate trends through charts, calculate average rates, and identify maximum and minimum values.</p>
   <p>I have successfully completed various projects as part of my postgraduate studies, including the development of the CurrencyExchangeRateApp. This application demonstrates my proficiency in utilizing Python, PySide6, Pandas, Matplotlib, and API integration to create a functional and user-friendly software solution. The project involved data retrieval from the NBP API, data analysis, chart visualization, and implementing various features to enhance the user experience.</p>
   <p>Throughout the development process, I applied my knowledge of software testing techniques to ensure the application's quality and reliability. I designed and executed test cases, performed functional and UI testing, and reported and resolved any identified issues.</p>
 
-  <h3><a href="https://github.com/Martabtk/Pracuj-pl-automated-tests">Pracuj-pl-automated-tests</a></h3>
+  <h3><a href="https://github.com/Martabtk/Pracuj-pl-automated-tests">pracuj_pl_automated_tests</a></h3>
   <p>Description: Automated tests for the Pracuj.pl job portal. The tests utilize Selenium WebDriver and unittest framework to automate various scenarios such as page navigation, form filling, and search functionality. The goal of the project was to create a robust test suite that ensures the stability and functionality of the Pracuj.pl website.</p>
   <p>I developed the Pracuj-pl-automated-tests project to showcase my expertise in test automation using Selenium WebDriver and the unittest framework in Python. The project demonstrates my ability to design and implement automated test cases, handle test data, and generate meaningful test reports. By automating various scenarios on the Pracuj.pl job portal, I aimed to streamline the testing process and improve overall efficiency.</p>
   <p>Throughout the development of the project, I followed best practices in test automation, including maintaining a clear and maintainable code structure, implementing robust error handling, and utilizing effective locators.</p>
