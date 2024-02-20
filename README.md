@@ -18,18 +18,10 @@
     <li>Selenium WebDriver: UI test automation tool.</li>
   </ul>
 
-  <h2>Tech Skills</h2>
-  <ul>
-    <li>SQL: Querying and manipulating data in databases</li>
-    <li>SCRUM: Agile project management framework</li>
-    <li>DevTools: Tools for development and testing, such as IDEs and debugging tools</li>
-    <li>Software Testing: Principles and methodologies of software testing</li>
-    <li>Creating test cases: Designing and documenting test cases</li>
-    <li>Creating test scenarios: Developing test scenarios based on requirements</li>
-    <li>Reporting bugs: Identifying and documenting software defects</li>
-  </ul>
-
   <h2>Projects</h2>
+  <h3><a href="https://github.com/Martabtk/manual_testing_examples">manual_testing_examples</a></h3>
+  <p>Description: This repository contains a sample budget management application that has been independently tested for functionality and usability. During the course "Mobile Application Testing," I had the opportunity for individual training to test a budget management application. I received a UX mockup for it, based on which I wrote test cases, conducted tests, wrote a test report, and reported bugs.</p>
+
   <h3><a href="https://github.com/Martabtk/CurrencyExchangeRateApp.git">currency_exchange_rate_app</a></h3>
   <p>Description: A currency exchange rate tracking and analysis application that utilizes data from the National Bank of Poland (NBP). The app allows users to search for currencies, visualize exchange rate trends through charts, calculate average rates, and identify maximum and minimum values.</p>
   <p>I have successfully completed various projects as part of my postgraduate studies, including the development of the CurrencyExchangeRateApp. This application demonstrates my proficiency in utilizing Python, PySide6, Pandas, Matplotlib, and API integration to create a functional and user-friendly software solution. The project involved data retrieval from the NBP API, data analysis, chart visualization, and implementing various features to enhance the user experience.</p>
@@ -40,7 +32,7 @@
   <p>I developed the Pracuj-pl-automated-tests project to showcase my expertise in test automation using Selenium WebDriver and the unittest framework in Python. The project demonstrates my ability to design and implement automated test cases, handle test data, and generate meaningful test reports. By automating various scenarios on the Pracuj.pl job portal, I aimed to streamline the testing process and improve overall efficiency.</p>
   <p>Throughout the development of the project, I followed best practices in test automation, including maintaining a clear and maintainable code structure, implementing robust error handling, and utilizing effective locators.</p>
 
-  <h2>Education</h2>
+ <h2>Education</h2>
   <ul>
     <li>Master's degree in Faculty of Computer Science and Management, Wrocław University of Science and Technology</li>
     <li>Postgraduate studies in "Software Testing for Mobile and Server Applications," WSB Merito University, Wrocław</li>
