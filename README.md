@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
 </head>
 
 <body>
@@ -6,7 +13,7 @@
 
   <h2>Tools</h2>
   <ul>
-    <li>JIRA: Project management and issue tracking tool</li>
+    <li>JIRA: Project management and issue tracking tool (<a href="https://drive.google.com/drive/folders/1GglPppQT9fQdYuoqHn1Ou5it5HREB1su?usp=sharing">Link to JIRA Bug Reports</a>)</li>
     <li>TestRail: Test process management and writing test plans</li>
     <li>Github: Version control and collaboration platform</li>
     <li>Selenium WebDriver: UI test automation tool.</li>
