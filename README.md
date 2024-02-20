@@ -4,11 +4,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
 </head>
 
 <body>
-  <h1>About Me</h1>
   <h1>About Me</h1>
   <p>My name is Marta Betka. I hold a Master's degree in Faculty of Computer Science and Management from Wrocław University of Science and Technology. I have over 12 years of experience as a quality engineer in a global manufacturing brand, where I was responsible for conducting tests and ensuring the quality of consumer electronics. This experience sparked a strong interest in testing and QA engineering. As a quality engineer, my role involved designing and conducting tests, as well as reporting performance and reliability results for consumer electronics. This experience inspired me to transition into the field of software testing for mobile and server applications. I am excited about the opportunity to apply my knowledge of quality assurance and testing methodologies to deliver reliable and high-performance software solutions.</p>
 
