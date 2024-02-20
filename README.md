@@ -13,7 +13,7 @@
 
   <h2>Tools</h2>
   <ul>
-    <li>JIRA: Project management and issue tracking tool (<a href="https://drive.google.com/drive/folders/1GglPppQT9fQdYuoqHn1Ou5it5HREB1su?usp=sharing">Link to JIRA Bug Reports</a>)</li>
+    <li><a href="https://drive.google.com/drive/folders/1GglPppQT9fQdYuoqHn1Ou5it5HREB1su?usp=sharing" style="text-decoration: underline;">JIRA</a>: Project management and issue tracking tool</li>
     <li>TestRail: Test process management and writing test plans</li>
     <li>Github: Version control and collaboration platform</li>
     <li>Selenium WebDriver: UI test automation tool.</li>
@@ -41,7 +41,7 @@
   <p>I developed the Pracuj-pl-automated-tests project to showcase my expertise in test automation using Selenium WebDriver and the unittest framework in Python. The project demonstrates my ability to design and implement automated test cases, handle test data, and generate meaningful test reports. By automating various scenarios on the Pracuj.pl job portal, I aimed to streamline the testing process and improve overall efficiency.</p>
   <p>Throughout the development of the project, I followed best practices in test automation, including maintaining a clear and maintainable code structure, implementing robust error handling, and utilizing effective locators.</p>
 
- <h2>Education</h2>
+  <h2>Education</h2>
   <ul>
     <li>Master's degree in Faculty of Computer Science and Management, Wrocław University of Science and Technology</li>
     <li>Postgraduate studies in "Software Testing for Mobile and Server Applications," WSB Merito University, Wrocław</li>
@@ -52,3 +52,4 @@
 </body>
 
 </html>
+
