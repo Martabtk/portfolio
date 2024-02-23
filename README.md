@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
 <body>
- <h1>About Me &#x1F64B;&#x200D;&#x2640;&#xFE0F;</h1>
+  <h1>About Me &#x1F469;&#x200D;&#x1F4BB;</h1>
   <p>My name is Marta Betka. I hold a Master's degree in Faculty of Computer Science and Management from Wrocław University of Science and Technology. I have over 12 years of experience as a quality engineer in a global manufacturing brand, where I was responsible for conducting tests and ensuring the quality of consumer electronics. This experience sparked a strong interest in testing and QA engineering. As a quality engineer, my role involved designing and conducting tests, as well as reporting performance and reliability results for consumer electronics. This experience inspired me to transition into the field of software testing for mobile and server applications. I am excited about the opportunity to apply my knowledge of quality assurance and testing methodologies to deliver reliable and high-performance software solutions.</p>
 
   <h2>Tools</h2>
   <ul>
-    <li><a href="https://drive.google.com/drive/folders/1GglPppQT9fQdYuoqHn1Ou5it5HREB1su?usp=sharing" style="text-decoration: underline;">JIRA</a>: Project management and issue tracking tool</li>
-    <li>TestRail: Test process management and writing test plans</li>
-    <li>Github: Version control and collaboration platform</li>
-    <li>Selenium WebDriver: UI test automation tool.</li>
+    <li><a href="https://drive.google.com/drive/folders/1GglPppQT9fQdYuoqHn1Ou5it5HREB1su?usp=sharing" style="text-decoration: underline;">JIRA</a>: Project management and issue tracking tool &#x1F4BC;</li>
+    <li>TestRail: Test process management and writing test plans &#x1F4C4;</li>
+    <li>Github: Version control and collaboration platform &#x1F5C3;</li>
+    <li>Selenium WebDriver: UI test automation tool &#x1F4BB;</li>
   </ul>
 
   <h2>Projects</h2>
@@ -41,6 +39,6 @@
 
   <p>By combining my educational background and professional experience, I am equipped with the necessary skills and expertise to excel in software testing and QA engineering roles.</p>
 </body>
-
 </html>
+
 
